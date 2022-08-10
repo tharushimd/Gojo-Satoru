@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/f3b2f9e862e1352d4fd94.jpg" alt="nz" width="350"/>
+<img src="https://telegra.ph/file/028099ced8d0b0a537fb9.jpg" alt="nz" width="350"/>
 </p>
 
 ## Gojo-Satoru
@@ -74,8 +74,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'YOURAPIKEY',
 }
   
-global.owner = ["9181XXXXXX"]
-global.ownername = ["YourName"]
+global.owner = ["94758512807"]
+global.ownername = ["LUCIFER"]
 ```
 </details>
 
